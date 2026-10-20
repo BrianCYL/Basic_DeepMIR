@@ -1,0 +1,9 @@
+pandas
+matplotlib
+numpy
+scikit-learn
+torch
+torchaudio
+tqdm
+librosa==0.10.2
+joblib
