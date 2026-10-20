@@ -14,9 +14,10 @@ dataset/
 ├── nsynth-valid/audio/
 └── nsynth-valid/examples.json
 ```
-Please note that the file format should be json/wav.
-
-Run all commands from the repository root.
+Please note that:
+- The file format of the dataset should be json/wav.
+- Run all commands from the repository root.
+- If need the trained model checkpoints, please download from this [Google Drive](https://drive.google.com/drive/folders/1m52vIJTVGKpITMgGfIiL1X5D0rssYPzd?usp=sharing).
 
 ## Preprocessing
 
