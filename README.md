@@ -1,10 +1,16 @@
+# Music Note Classification
+This repository implements music note classification using the NSynth dataset.
+The dataset contains 11 instrument classes, including bass, organ, and flute.
+It compares traditional machine learning, k-nearest neighbors (kNN), and deep
+learning models based on convolutional neural networks (CNNs).
+
 ## Setup
 
 Install the dependencies listed by running:
 ```
 pip install -r requirement.txt
 ```
-We use the dataset from [NSynth](https://drive.google.com/drive/folders/1YSuQkRdVYyZ7Dlk7Rh5QoAQOkE1IFC9U?usp=sharing).
+We use the dataset from [NSynth](https://magenta.tensorflow.org/datasets/nsynth).
 Place the NSynth dataset under `./dataset/` with these directories:
 
 ```text
